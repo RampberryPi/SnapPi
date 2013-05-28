@@ -1,0 +1,4 @@
+[EmailCfg]
+fromaddr: myemail@gmail.com
+user: myemail
+passwd: mypasswd
